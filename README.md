@@ -6,4 +6,4 @@ Another task for ITI on day 2 of the HTML/ CSS course to create a table with HTM
 
 ![task3](task3.jpg)
 
-Try the [table](https://aya-hegab.github.io/table-html_css-day2_task3-iti/) now.
+Check out the [table](https://aya-hegab.github.io/table-html_css-day2_task3-iti/) now.
